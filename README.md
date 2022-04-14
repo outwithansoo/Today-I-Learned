@@ -1,7 +1,7 @@
 # Today-I-Learned
 
 
-소프트웨어 공학 개발과정 (2022.04.11)
+## 소프트웨어 공학 개발과정 (📝2022.04.11)
 
 요구사항 명세 -> 요구사항 분석 -> 기본 설계 -> 상세 설계 -> 구현 -> 테스팅 -> 유지 보수
 
@@ -34,5 +34,22 @@
 
 
 - 유지 보수 단계: 개발 완료된 소프트웨어에 대해 추가, 변경 요구 사항을 검토하고 반영하거나 장애나 오류 발생 시 이에 대한 대처 및 복구, 실행되는 소프트웨어의 지속적인 모니터링 및 시스템 운영 등을 수행한다.
+
+## Mobile Roadmap (📝2022.04.14)
+
+![intro_roadmap_v1 0](https://user-images.githubusercontent.com/92626903/163323082-85ad1406-6109-41ba-98d0-9261540cf896.png)
+
+
+## iOS Roadmap 
+
+![intro_roadmap_v1 0](https://user-images.githubusercontent.com/92626903/163323175-3af90ca1-dade-4568-9bfd-2933ce81526b.png)
+
+
+## Swift Roadmap
+
+![Swift_programming_roadmap_v0 9](https://user-images.githubusercontent.com/92626903/163323239-546804c8-8611-4626-979b-14b9829f18e5.png)
+
+
+Inspired By [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 
