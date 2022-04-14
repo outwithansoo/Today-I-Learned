@@ -1,4 +1,7 @@
-# Today-I-Learned (전체적인 개발자 큰그림 🌳 펼쳐보기)
+# Development_flow_chart (전체적인 개발자 큰그림 🌳 펼쳐보기)
+
+## 학교 커리큘럼
+<img width="916" alt="스크린샷 2022-04-14 오후 3 14 55" src="https://user-images.githubusercontent.com/92626903/163324987-4c31f3f2-a571-464e-b34b-eaf170f67de8.png">
 
 
 ## 소프트웨어 공학 개발과정 (📝2022.04.11)
