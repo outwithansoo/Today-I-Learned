@@ -1,4 +1,4 @@
-# Development_flow_chart (전체적인 개발 큰그림 🌳)
+# Development flow chart (전체적인 개발 큰그림 🌳)
 
 ## University Curriculum
 <img width="916" alt="스크린샷 2022-04-14 오후 3 14 55" src="https://user-images.githubusercontent.com/92626903/163324987-4c31f3f2-a571-464e-b34b-eaf170f67de8.png">
